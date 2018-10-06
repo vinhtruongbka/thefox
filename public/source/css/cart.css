@@ -1,0 +1,18 @@
+.muahang-anh{
+	width: 100px;
+	height: 100px;
+	margin: auto;
+}
+.muahang_tex{
+	padding-top: 30px
+}
+.muahang_tex_1{
+	font-weight: bold;
+}
+.muahang_tex_2{
+	color: red
+}
+.thanhtoan_muahang{
+	float: right;
+	margin-right: 5px;
+}

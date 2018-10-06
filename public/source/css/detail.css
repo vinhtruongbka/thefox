@@ -1,0 +1,245 @@
+.anhnho li{
+	width: 73px;
+	height: 73px;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid #e5e5e5;
+}
+.anhnho li:first-child{
+	margin-left: 0px !important;
+}
+.anhnho{
+	padding-left: 0px !important;
+
+}
+.chitiet{
+	margin-top: 20px;
+}
+.my-nav-tabs{
+	margin-top: 20px;
+}
+.my-nav-tabs ul{
+	border: 0px !important;
+}
+.my-nav-tabs ul li{
+	/* background: #f5f5f5 !important;
+	border-right: 1px solid #e5e5e5;
+	border-radius: 0px !important; */
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.my-nav-tabs ul li:hover{
+	color: #fff !important;
+	border-radius: 0px !important;
+}
+.my-tab-content{
+	border: 1px solid #e5e5e5;
+	padding: 0 10px 10px 10px;
+}
+.title-detai{
+	margin-top: 0px !important;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.thuonghieu{
+	color: red;
+}
+.my-caption-detail{
+	margin-top: 5px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.gia-detail{
+	 font-size: 24px;
+
+}
+.star{
+	margin-top: 5px;
+	color: rgb(255, 190, 0);
+}
+.mota-detai{
+	margin-top: 10px;
+	max-height: 70px;
+	overflow: hidden;
+}
+.kich-thuoc-2 div{
+	margin-left: 5px;
+	width: 50px;
+	height: 50px;
+	border: 1px solid #e5e5e5;
+	text-align: center;
+	padding-top: 15px;
+	display: inline-block;
+	cursor: pointer;
+
+}
+.kich-thuoc-2 div:first-child{
+	margin-left: 0px;
+	
+}
+.kich-thuoc-3 div{
+	margin-left: 5px;
+	width: 50px;
+	height: 50px;
+	border: 1px solid #e5e5e5;
+	cursor: pointer;
+	display: inline-block;
+
+}
+.kich-thuoc{
+	margin-top: 10px;
+}
+.kich-thuoc span{
+	color: red;
+}
+.input{
+	width: 100%;
+	text-align: center;
+	border: 0px !important;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	
+}
+.kich-thuoc-4 div{
+	width: 40px;
+	height: 40px;
+	border: 1px solid #e5e5e5;
+	text-align: center;
+	padding-top: 8px;
+	display: inline-block;
+	cursor: pointer;
+    margin-left: 0px !important;
+}
+.kich-thuoc-5{
+	margin-top: 20px;
+}
+.kich-thuoc-5 div{
+	display: inline-block;
+}
+.muahang button{
+	background-color: red !important;
+	color: #fff!important;
+	border-radius: 0px !important;
+	font-weight: bold;
+	height: 40px;
+}
+.kich-thuoc-mobile{
+	margin-top: 20px;
+}
+.kich-thuoc-mobile span:first-child{
+	color: red;
+	font-weight: bold;
+}
+.sibar-giaohang div{
+	float: left;
+	padding-left: 15px;
+}
+.sibar-giaohang-1{
+	margin-left: 5px;
+
+}
+.sibar-giaohang div img {
+    padding-top: 12px;
+}
+#title-giao-hang{
+	color: #575454;
+	font-weight: bold;
+
+}
+#conten-giao-hang{
+	color: #707070;
+
+}
+.sibar-giaohang{
+    border-bottom: solid 1px #e5e5e5;
+    border-right: solid 1px #e5e5e5;
+    border-left: solid 1px #e5e5e5;
+    height: 90px;
+    padding-top: 20px;
+    background: #f5f5f5;
+}
+.sibar-giaohang:first-child{
+    border-top: solid 1px #e5e5e5;
+}
+.alo{
+	color: red !important;
+	font-weight: bold
+}
+.sibar-detai-1{
+	margin-top: 30px;
+}
+.sibar-detai-1 h3{
+	font-size: 20px;
+}
+.my-caption-detail-1{
+	padding-left: 20px;
+}
+/* Moi */
+.my-modal-header{
+	background: red !important;
+	color: #fff;
+}
+.my-modal-title::before{
+	content: "";
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    background-image: url("../images/icon-check.png");
+    background-repeat: no-repeat;
+}
+.my-modal-title{
+	margin-left: 40px;
+
+}
+.tongtien p{
+	float: right;
+}
+.bang-gia{
+	margin-top: 5px;
+    border: 1px solid #e5e5e5;
+    background: #f7f7f7;
+}
+.bang-gia p{
+	padding-top: 10px;
+}
+.sanpham-poup{
+	width: 80px;
+	height: 80px;
+}
+.pop-sanpham{
+	float: left;
+	margin-left: 20px;
+}
+.xoasanpham{
+	color: red !important;
+}
+.pop-gia{
+	padding-top: 30px;
+}
+.tieptucmuahang{
+	background:#f7f7f7;
+}
+.thuchienthanhtoan{
+	background:red !important;
+	color: #fff;
+}
+.thuchienthanhtoan:hover{
+	background:red !important;
+	color: #fff;
+}
+
+.viendo {
+	border: solid 1px red !important;
+}
+.anhnho{
+	cursor: pointer;
+}
+.giohang_pop{
+	margin-bottom: 5px;
+	border-bottom: solid 1px #ccc;
+}
+.giohang_pop:last-child{
+	margin-bottom: 0px !important;
+	border-bottom: none !important;
+}
